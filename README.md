@@ -38,6 +38,7 @@ A running compilation of all resources and interview questions that have been as
 - Rotate linked list by K places
 - XOR linked list
 - Reverse linked list in blocks of K
+- Find the union and intersection of 2 linked lists
 
 ## Arrays
 - Find pivot index (where sum of numbers to left = sum of numbers to right)
@@ -51,6 +52,8 @@ A running compilation of all resources and interview questions that have been as
 - Move all zeroes to the end
 - Max sub array sum - DP
 - Find K closest elements to a given value
+- Given an array with n elements, find the max and min sum of (n-1) elements- ex ip- {1,3,5,6} maxSum = 14, minsum=9
+- find the rolling average with n window size. 
 
 ## Hashmap
 - 2 sum (return indices of 2 numbers such that they add up to a specific target)
@@ -81,6 +84,9 @@ A running compilation of all resources and interview questions that have been as
 - Linear search
 - Binary search
 
+## Pointer arithmetic  
+- General
+
 ## Bit Manipulation
 - Swap bits in odd and even positions
 - Power of 2
@@ -98,6 +104,7 @@ A running compilation of all resources and interview questions that have been as
 - Swap 2 nos without using temporary vble
 - Reverse the order of bits in a no
 - Modify a bit at a given position to a 1 or a 0
+- return False if the binary representation of num has more than 1 zeros.
 
 ## Embedded specific
 - Boot sequence
