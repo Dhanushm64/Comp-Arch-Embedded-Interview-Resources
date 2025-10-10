@@ -39,6 +39,7 @@ A running compilation of all resources and interview questions that have been as
 - XOR linked list
 - Reverse linked list in blocks of K
 - Find the union and intersection of 2 linked lists
+- find the middle node in o(1) time and delete it
 
 ## Arrays
 - Find pivot index (where sum of numbers to left = sum of numbers to right)
