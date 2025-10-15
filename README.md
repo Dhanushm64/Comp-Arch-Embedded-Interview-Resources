@@ -95,7 +95,7 @@ A running compilation of all resources and interview questions that have been as
 - Find position of the only bit that is set
 - Count no of set bits in logN time
 - Add 2 nos without arithmetic operators
-- Find the only no that appears once
+- Find the only no that appears once(single number & single number2)
 - Set all bits in a given range
 - Compute 2's complement
 - Position of right most bit set
@@ -106,6 +106,7 @@ A running compilation of all resources and interview questions that have been as
 - Reverse the order of bits in a no
 - Modify a bit at a given position to a 1 or a 0
 - return False if the binary representation of num has more than 1 zeros.
+- bitwise and of all the number in a range
 
 ## Embedded specific
 - Boot sequence
