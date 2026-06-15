@@ -110,6 +110,7 @@ A running compilation of all resources and interview questions that have been as
 - hamming distance
 - set mismatch
 - single num 2/3
+- and the numbers in given range
 
 ## Embedded specific
 - Boot sequence
