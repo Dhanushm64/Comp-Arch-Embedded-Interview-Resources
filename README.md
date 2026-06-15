@@ -107,6 +107,9 @@ A running compilation of all resources and interview questions that have been as
 - Modify a bit at a given position to a 1 or a 0
 - return False if the binary representation of num has more than 1 zeros.
 - bitwise and of all the number in a range
+- hamming distance
+- set mismatch
+- single num 2/3
 
 ## Embedded specific
 - Boot sequence
